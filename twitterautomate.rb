@@ -1,6 +1,8 @@
 #By: Nasser Alqahtani
 #Twitter: thenasser93
 
+#NOTE: it was created and coded in mid 2020. It needs to be updated and test to meet new Twitter Api changes.
+
 require 'rubygems'
 require 'bundler/setup'
 require 'twitter'
